@@ -66,7 +66,6 @@ This project is a **Plagiarism Detection System** developed using **C++ and the 
 
 ## Contributors
 - **Hashmat Raza**
-- **Syed Ali Hassan Shirazi**
 
 ## License
 This project is licensed under the **MIT License**. Feel free to contribute and improve!
